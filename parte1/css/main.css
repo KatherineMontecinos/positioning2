@@ -1,0 +1,31 @@
+div {
+	width: 400px;
+	height: 400px;
+}
+
+
+.red {
+	background-color: red;
+	width: 400px;
+	height: 400px;
+	position: static;
+}
+
+.violet {
+	background-color: violet;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	margin-left: 100px;
+	margin-top: 100px;
+
+
+}
+
+.yellow {
+	background-color: yellow;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	
+}
